@@ -62,7 +62,7 @@ testVar();
 ```
 
 
-* `consat` (block-scoped and immutable)**
+* `const` (block-scoped and immutable)**
 
 ```ts
 const z = 100;
