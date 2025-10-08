@@ -313,7 +313,7 @@ Parameters:
 function: The function to be executed repeatedly.
 delay: The time in milliseconds between each execution of the function.
 ...args: Optional additional arguments to be passed to the function when it's executed.
-Return Value: Returns a unique numeric ID for the interval, which can be used to cancel the interval.
+Return Value: Returns a unique numeric ID for the interval, which is can be used to cancel the interval.
 
 
 * clearTimeout(timeoutID)
